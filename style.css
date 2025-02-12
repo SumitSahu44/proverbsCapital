@@ -320,6 +320,8 @@ tbody tr:hover{
     color: rgb(227, 30, 30);
     padding-left:8px ;
 }
+
+/* media for responsive code  */
 @media(max-width:1000px) {
     td:not(:first-of-type){
         min-width: 12.1rem;
